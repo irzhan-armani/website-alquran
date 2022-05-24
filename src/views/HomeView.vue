@@ -134,20 +134,17 @@ export default {
 
 .search {
   display: flex;
-  margin: 50px 0 0 0;
+  margin: 30px 0 0 0;
   flex-direction: row;
   justify-content: center;
 }
 .title {
   font-size: 60px;
-  font-style: bold;
   margin-top: 20px;
-
   color: #eee8e8;
 }
 .intro {
   font-size: 30px;
-  font-style: bold;
   color: #eee8e8;
 }
 
@@ -187,7 +184,7 @@ export default {
 .judul {
   text-align: center;
   font-size: 70px;
-  color: #705725;
+  color: #6495ed;
 }
 
 .bismillah {
